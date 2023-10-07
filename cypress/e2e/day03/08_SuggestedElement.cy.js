@@ -13,7 +13,7 @@ describe('SuggestedElement',()=> {
         //1.yol
         //cy.get('#c7mM1c > .wM6W7d > span').contains("finance").click()
 
-        //2. yol
+        
 
 
     })
